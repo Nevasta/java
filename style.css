@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(250, 240, 199);
+}
+
+body h1 {
+    margin: 30px 160px
+}
+
+body h2 {
+    margin: 0 20px;
+}
+
+main h3 {
+    margin: 0px 80px;
+    display:inline-block
+}
+
+.distancia {
+    margin: 0px 60px;
+    display: inline-block;
+}
+
+.distancia2 {
+    margin: 0px -100px;
+    display: inline-block;
+}
+
+.distancia3 {
+    margin: 0px 70px;
+    display: inline-block;
+}
+
+img {
+    width: 360px;
+    border: 3.5px solid;
+    border-color: rgb(162, 120, 162);
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+
+div {
+    padding: 12px;
+}
+
+main ul {
+    margin: 10px 70px ;
+}
+
+main li {
+    margin: 30px;
+    display: inline-block;
+}
+
+main a:hover{
+    color: red;
+    cursor: pointer;
+}
+
+main a:active, main li:active {
+    color: #6b21ff;
+}
+
+footer {
+    padding: 20px;
+}
