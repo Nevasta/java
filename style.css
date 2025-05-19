@@ -3,7 +3,7 @@ body {
 }
 
 body h1 {
-    margin: 30px 160px
+    margin: 30px 140px
 }
 
 body h2 {
@@ -11,17 +11,17 @@ body h2 {
 }
 
 main h3 {
-    margin: 0px 80px;
+    margin: 0px 50px;
     display:inline-block
 }
 
 .distancia {
-    margin: 0px 60px;
+    margin: 0px 90px;
     display: inline-block;
 }
 
 .distancia2 {
-    margin: 0px -100px;
+    margin: 0px -80px;
     display: inline-block;
 }
 
@@ -31,7 +31,7 @@ main h3 {
 }
 
 img {
-    width: 360px;
+    width: 310px;
     border: 3.5px solid;
     border-color: rgb(162, 120, 162);
 }
