@@ -3,7 +3,7 @@ body {
 }
 
 body h1 {
-    margin: 30px 140px
+    margin: 30px 160px
 }
 
 body h2 {
@@ -11,27 +11,39 @@ body h2 {
 }
 
 main h3 {
-    margin: 0px 50px;
+    margin: 0px 80px;
     display:inline-block
 }
 
 .distancia {
-    margin: 0px 90px;
-    display: inline-block;
+    margin: 0px -20px;
 }
 
 .distancia2 {
-    margin: 0px -80px;
-    display: inline-block;
+    margin: 0px -30px;
 }
 
 .distancia3 {
-    margin: 0px 70px;
-    display: inline-block;
+    margin: 0px 10px;
+}
+
+.distancia4 {
+    margin: 0px -60px;
+    
+}
+
+.distancia5 {
+    margin: 0px -40px;
+    
+}
+
+.distancia6 {
+    margin: 0px 0px;
+    
 }
 
 img {
-    width: 310px;
+    width: 360px;
     border: 3.5px solid;
     border-color: rgb(162, 120, 162);
 }
@@ -40,6 +52,29 @@ img:hover {
     transform: scale(1.05);
 }
 
+.img {
+    margin: 0 10px;
+}
+
+.img2 {
+    margin: 0 0px;
+}
+
+.img3 {
+    margin: 0 10px;
+}
+
+.img4 {
+    margin: 0 10px;
+}
+
+.img5 {
+    margin: 0px 10px;
+}
+
+.img6 {
+    margin: 0 50px;
+}
 
 div {
     padding: 12px;
