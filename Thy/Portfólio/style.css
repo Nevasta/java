@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(250, 240, 199);
+    background-image: url(/fts/2-paisagem-nos-alpes.webp);
+    background-size: 1600px;
+}
+
+body h1 {
+    background-color: rgb(255, 225, 174);
+    border-radius: 50px;
+    width: 1150px;
+    margin: 0 130px;
+    padding: 20px;
+}
+
+body h2 {
+    background-color: rgb(255, 225, 174);
+    border-radius: 50px;
+    width: 260px;
+    margin: 0 70px;
+    padding: 20px;
+}
+
+main a {
+    font-size: 30px;
+    background-image: url(/fts/download.png);
+    border-radius: 100px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    
+
+}
+
+img {
+    width: 360px;
+    border: 3.5px solid;
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+.Alinhamento {
+    padding: 20px;
+    display:inline;
+}
+
+main ul {
+    margin: 10px 70px ;
+    background-color: rgb(255, 225, 174);
+    border-radius: 30px;
+}
+
+main li {
+    margin: 30px;
+    color: white;
+}
+
+main a:hover{
+    cursor: pointer;
+}
+
+main a:active, main li:active {
+    color: #6b21ff;
+}
+
+footer {
+    padding: 20px;
+}
